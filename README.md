@@ -31,14 +31,14 @@ The following executables are created upon compilation:
 Following is the procedure to execute the messages:
 
 * Edit configuration.conf and change the following: 
-  delay_time: Time between flashes (time in ms)
-  blink_time: Time for which messages are flashed (time in ms)
-  key: Encryption key (make it an 8 character word of your choice, 
+  * delay_time: Time between flashes (time in ms)
+  * blink_time: Time for which messages are flashed (time in ms)
+  * key: Encryption key (make it an 8 character word of your choice, 
          lets say *test1234*)
-  font_size: Font size of displayed messages
-  font_type: Font type of displayed messages
-  font_color: Color of displayed messages
-  msg_display_speed: Either "normal" or "slowing", or "faster" 
+  * font_size: Font size of displayed messages
+  * font_type: Font type of displayed messages
+  * font_color: Color of displayed messages
+  * msg_display_speed: Either "normal" or "slowing", or "faster" 
                        (without the quotes)
 
 * Type in the messages in a file named messages.txt (using notepad)
