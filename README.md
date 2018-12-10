@@ -51,6 +51,7 @@ C:\SubMsgs> encryptMsgs.exe messages.txt messages.smsg test1234
 * Execute subMsgs.exe
 * Select configuration.conf as the configuration file
 * Click on Load Messages
+* Select the messages.smsg file
 * Click on Clear Window
 
 Once launched, following are the hotkeys 
